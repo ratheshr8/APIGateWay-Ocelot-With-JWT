@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q85B35LGoz1tdsq1NrtEd7iZqr+IV6ItV9277Y5AIfDJGYMMwhwU7R8ruzaRZMiLalSnf9owHlhHSYR1N3a6bg==",
+  "success": true,
+  "projectFilePath": "D:\\Repo\\APIGateWay-Ocelot-With-JWT\\AuthServer\\AuthServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.1\\microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.1\\microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

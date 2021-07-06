@@ -1,0 +1,57 @@
+﻿{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/customers",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 62237,
+      "UpstreamPathTemplate": "/customers",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostandPorts": [
+
+        {
+          "Host": "localhost",
+          "Port": 62237
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "TestKey",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/customers/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 62237,
+      "UpstreamPathTemplate": "/customers/{id}",
+      "DownstreamHostandPorts": [
+
+        {
+          "Host": "localhost",
+          "Port": 62237
+        }
+      ],
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/auth",
+      "DownstreamScheme": "http",
+      "DownstreamHost": "localhost",
+      "DownstreamPort": 62238,
+      "DownstreamHostandPorts": [
+
+        {
+          "Host": "localhost",
+          "Port": 62238
+        }
+      ],
+      "UpstreamPathTemplate": "/api/auth",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId",
+    "AdministrationPath": "/administration"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/D0ReFqN0R/7VSjAk6uu7WLTtwRHvO7PKNW0nuqn9shVUkbrVMCK8Qrj11M/t8qfpFPfOLjdbDL172U5MJi5hA==",
+  "success": true,
+  "projectFilePath": "D:\\Repo\\APIGateWay-Ocelot-With-JWT\\CustomerAPIServices\\CustomerAPIServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.7\\microsoft.aspnetcore.authentication.jwtbearer.5.0.7.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\Rathesh\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

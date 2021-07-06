@@ -1,0 +1,80 @@
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\appsettings.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\configuration.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\APIGateway.exe
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\APIGateway.deps.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.dev.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\APIGateway.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\ref\APIGateway.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\APIGateway.pdb
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\scopedcss\bundle\APIGateway.styles.css
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CopyComplete
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\ref\APIGateway.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.pdb
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\net5.0\APIGateway.genruntimeconfig.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\appsettings.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\configuration.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\APIGateway.exe
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\APIGateway.deps.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\APIGateway.runtimeconfig.dev.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\APIGateway.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\ref\APIGateway.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\APIGateway.pdb
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\scopedcss\bundle\APIGateway.styles.css
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.csproj.CopyComplete
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\ref\APIGateway.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.pdb
+D:\Repo\APIGateWay-Ocelot-With-JWT\APIGateway\obj\Debug\net5.0\APIGateway.genruntimeconfig.cache

@@ -1,0 +1,58 @@
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\appsettings.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.exe
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.deps.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.runtimeconfig.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.runtimeconfig.dev.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\ref\CustomerAPIServices.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.pdb
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.AssemblyInfoInputs.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.AssemblyInfo.cs
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.csproj.CoreCompileInputs.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.MvcApplicationPartsAssemblyInfo.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\staticwebassets\CustomerAPIServices.StaticWebAssets.Manifest.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\staticwebassets\CustomerAPIServices.StaticWebAssets.xml
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\scopedcss\bundle\CustomerAPIServices.styles.css
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.RazorTargetAssemblyInfo.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.csproj.CopyComplete
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\ref\CustomerAPIServices.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.pdb
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.genruntimeconfig.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\appsettings.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.exe
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.deps.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.runtimeconfig.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.runtimeconfig.dev.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\ref\CustomerAPIServices.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\CustomerAPIServices.pdb
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.AssemblyInfoInputs.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.AssemblyInfo.cs
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.csproj.CoreCompileInputs.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\staticwebassets\CustomerAPIServices.StaticWebAssets.Manifest.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\staticwebassets\CustomerAPIServices.StaticWebAssets.xml
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\scopedcss\bundle\CustomerAPIServices.styles.css
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.RazorTargetAssemblyInfo.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.csproj.CopyComplete
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\ref\CustomerAPIServices.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.pdb
+D:\Repo\APIGateWay-Ocelot-With-JWT\CustomerAPIServices\obj\Debug\net5.0\CustomerAPIServices.genruntimeconfig.cache

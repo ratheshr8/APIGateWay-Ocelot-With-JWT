@@ -1,0 +1,52 @@
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\appsettings.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\AuthServer.exe
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\AuthServer.deps.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.dev.json
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\AuthServer.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\ref\AuthServer.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\AuthServer.pdb
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfoInputs.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfo.cs
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CoreCompileInputs.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.Manifest.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.xml
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\scopedcss\bundle\AuthServer.styles.css
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.RazorTargetAssemblyInfo.cache
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CopyComplete
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\ref\AuthServer.dll
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.pdb
+D:\Rathesh\Net Core\API Gateway\APIGatewayDemo-master\APIGatewayDemo-master\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\net5.0\AuthServer.genruntimeconfig.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\appsettings.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\AuthServer.exe
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\AuthServer.deps.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.dev.json
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\AuthServer.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\ref\AuthServer.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\AuthServer.pdb
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfoInputs.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfo.cs
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CoreCompileInputs.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.Manifest.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.xml
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\scopedcss\bundle\AuthServer.styles.css
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.RazorTargetAssemblyInfo.cache
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CopyComplete
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\ref\AuthServer.dll
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.pdb
+D:\Repo\APIGateWay-Ocelot-With-JWT\AuthServer\obj\Debug\net5.0\AuthServer.genruntimeconfig.cache
